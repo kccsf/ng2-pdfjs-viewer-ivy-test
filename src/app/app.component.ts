@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { PdfJsViewerComponent } from 'ng2-pdfjs-viewer';
 
 @Component({
   selector: 'app-root',
